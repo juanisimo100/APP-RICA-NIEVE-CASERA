@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Rica Nieve Casera"; ObjectID = "4Ms-GQ-lZQ"; */
+"4Ms-GQ-lZQ.text" = "Rica Nieve Casera";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "5iY-j1-bZP"; */
+"5iY-j1-bZP.text" = "Title";
+
+/* Class = "UITextField"; placeholder = "Contraseña"; ObjectID = "8Oh-aU-Isq"; */
+"8Oh-aU-Isq.placeholder" = "Contraseña";
+
+/* Class = "UIButton"; normalTitle = "Registrar"; ObjectID = "CNH-1o-Zrq"; */
+"CNH-1o-Zrq.normalTitle" = "Registrar";
+
+/* Class = "UILabel"; text = "Registro De Nuevo Usuario"; ObjectID = "Qhu-E0-39d"; */
+"Qhu-E0-39d.text" = "Registro De Nuevo Usuario";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "Rnd-a1-QKb"; */
+"Rnd-a1-QKb.text" = "Subtitle";
+
+/* Class = "UITextField"; placeholder = "Nombre "; ObjectID = "VWC-sB-lGJ"; */
+"VWC-sB-lGJ.placeholder" = "Nombre ";
+
+/* Class = "UITextField"; placeholder = "Correo"; ObjectID = "X0x-un-ZfV"; */
+"X0x-un-ZfV.placeholder" = "Correo";
+
+/* Class = "UITextField"; placeholder = "Domicilio"; ObjectID = "cAs-Ta-Va9"; */
+"cAs-Ta-Va9.placeholder" = "Domicilio";
+
+/* Class = "UITextField"; placeholder = "Telefono"; ObjectID = "hSA-Ux-8Rd"; */
+"hSA-Ux-8Rd.placeholder" = "Telefono";
+
+/* Class = "UIButton"; normalTitle = "Nuestros Productos"; ObjectID = "sgF-Oo-mei"; */
+"sgF-Oo-mei.normalTitle" = "Nuestros Productos";
